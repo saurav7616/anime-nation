@@ -1,0 +1,34 @@
+.search{
+  width : 230px;
+  padding-top : 20px;
+  margin-left: 20px;
+  color : white;
+  background-color : transparent;
+  border-bottom : 2px solid white;
+  display : inline-flex;
+  flex-direction : row;
+  align-items : self-end;
+  justify-content: flex-start;
+  z-index: 2;
+}
+
+.search-icon{
+  height: 25px;
+  padding-bottom: 3px;
+}
+
+.search:hover .search-icon{
+  transition: all 0.3s ease-in-out;
+  transform: scale(1.2);
+}
+
+.search:hover{
+  transition: all 0.3s ease-in-out;
+  border-bottom: 2px solid #E44EC3;
+}
+
+.searchfield{
+  all : unset;
+  padding : 5px 10px;
+  text-align : start;
+}
