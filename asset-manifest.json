@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anime-nation/static/css/main.a412bf2a.css",
+    "main.js": "/anime-nation/static/js/main.5fb6a653.js",
+    "static/js/787.8afdfa94.chunk.js": "/anime-nation/static/js/787.8afdfa94.chunk.js",
+    "index.html": "/anime-nation/index.html",
+    "main.a412bf2a.css.map": "/anime-nation/static/css/main.a412bf2a.css.map",
+    "main.5fb6a653.js.map": "/anime-nation/static/js/main.5fb6a653.js.map",
+    "787.8afdfa94.chunk.js.map": "/anime-nation/static/js/787.8afdfa94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a412bf2a.css",
+    "static/js/main.5fb6a653.js"
+  ]
+}
